@@ -14,27 +14,32 @@
 # on GitHub Pages it is your github repository's name prefixed with a /
 #baseurl: /collectionbuilder-gh 
 # location of code, the full url to your github repository
-source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
+source-code: https://github.com/KingKoderRew/Antonio_Scarpa
 
 ##########
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: CollectionBuilder-GH 
+title: Antonio Scarpa 
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a template for creating simple digital exhibits
+tagline: Tabulae neurologicae
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
-# creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+description: Italian anatomist Antonio Scarpa is known to have Illustrated his own works
+and in this book the engravings of all the organs are pictured life-size. Scarpa
+trained Faustino Anderloni himself to create copper engravings of his
+anatomical drawings. The plates are both accurate and brilliant in light and
+shade. Each of seven finished plates is accompanied by an outline plate with
+explanatory markings. This work gave the first proper delineation of the nerves
+of the heart.
+author: Branden, Nate, Kerry
 
 ##########
 # COLLECTION SETTINGS
 #
 # Set the metadata for your collection (the name of the csv file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: demo-metadata 
+metadata: Metadata - Sheet1
 
 ##########
 # Site/Organization Branding 
